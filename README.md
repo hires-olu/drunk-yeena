@@ -8,7 +8,3 @@ Other Links:
 Medium: https://drunk-yeena.medium.com/  
 LinkedIn: https://www.linkedin.com/in/oosikomaiya/  
 Twitch: https://twitch.tv/drunkenhyena
-<!---
-drunk-yeena/drunk-yeena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
