@@ -1,7 +1,7 @@
 👋 Hi there! I'm @drunk-yeena  
 💛🤍💜🖤 | They/Them  
-I have 4 years of education from the University of Hull studying Computer Science for Games Development.
-I have a interest in video games and their development and a general seek to learn more in programming.
+I have 4 years of education from the University of Hull studying Computer Science for Games Development.  
+I have a interest in video games and their development and a general seek to learn more in programming.  
 I also write articles on video games and twitch stream in my spare time.  
 I use this GitHub to upload university work and personal projects.  
 You can find me on these other platforms:  
